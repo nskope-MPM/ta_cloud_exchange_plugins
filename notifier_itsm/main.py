@@ -73,7 +73,8 @@ MAPPED_FIELDS = {
     "telegram": ["message"],
     "twilio": ["message"],
     "zulip": ["message", "subject"],
-    "topdesk": ["message", "subject"],
+    "topdesk": ["message"],
+
 }
 
 
