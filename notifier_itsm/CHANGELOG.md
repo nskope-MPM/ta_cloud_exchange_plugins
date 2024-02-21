@@ -1,3 +1,7 @@
+# 1.1.2
+## Added
+- Added Topdesk within the notifier module
+
 # 1.1.0
 ## Added
 - Added feature to dynamically add recipients.
